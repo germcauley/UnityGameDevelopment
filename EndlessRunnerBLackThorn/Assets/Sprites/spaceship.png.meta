@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 668cd6c6f20f8594f97db6cc309970eb
+timeCreated: 1544292998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceship_0
+    21300002: spaceship_1
+    21300004: spaceship_2
+    21300006: spaceship_3
+    21300008: spaceship_4
+    21300010: spaceship_5
+    21300012: spaceship_6
+    21300014: spaceship_7
+    21300016: spaceship_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceship_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 197
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 115
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 113
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 113
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 111
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 198
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 196
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 500, y: -46}
+      - {x: 437, y: -8}
+      - {x: 120, y: -8}
+      - {x: 99, y: -43}
+      - {x: 99, y: -70}
+      - {x: 115, y: -84}
+      - {x: 172, y: -110}
+      - {x: 436, y: -110}
+      - {x: 495, y: -83}
+      - {x: 500, y: -74}
+    - - {x: -262, y: -6}
+      - {x: -301, y: -45}
+      - {x: -301, y: -67}
+      - {x: -280, y: -90}
+      - {x: -250, y: -110}
+      - {x: 18, y: -110}
+      - {x: 94, y: -96}
+      - {x: 98, y: -87}
+      - {x: 98, y: -44}
+      - {x: 26, y: -6}
+    - - {x: -300, y: -7}
+      - {x: -297, y: -6}
+      - {x: -297, y: -3}
+      - {x: -300, y: -2}
+      - {x: -302, y: -4}
+    - - {x: 408, y: 103}
+      - {x: 175, y: 103}
+      - {x: 99, y: 65}
+      - {x: 99, y: -1}
+      - {x: 464, y: -1}
+      - {x: 496, y: 18}
+      - {x: 499, y: 22}
+      - {x: 499, y: 56}
+      - {x: 489, y: 75}
+    - - {x: 29, y: 105}
+      - {x: -225, y: 105}
+      - {x: -301, y: 60}
+      - {x: -301, y: 42}
+      - {x: -249, y: 1}
+      - {x: 56, y: 1}
+      - {x: 99, y: 28}
+      - {x: 99, y: 59}
+      - {x: 87, y: 74}
+    - - {x: -363, y: 103}
+      - {x: -416, y: 103}
+      - {x: -500, y: 60}
+      - {x: -500, y: 31}
+      - {x: -495, y: 16}
+      - {x: -429, y: 2}
+      - {x: -363, y: 2}
+      - {x: -328, y: 19}
+      - {x: -301, y: 39}
+      - {x: -301, y: 65}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
